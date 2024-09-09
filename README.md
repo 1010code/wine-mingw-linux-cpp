@@ -15,7 +15,7 @@ cmake --build build
 - build/bin/main.exe 
 
 ## 如何在 Linux 下執行 MinGW 編譯的 C++ .exe 檔案
-可以參考以下文章在Linux系統下安裝wine模擬 Windows 環境來執行這些檔案。
+可以參考以下[文章](https://andy6804tw.github.io/2024/08/31/wine-mingw-linux-cpp/)在Linux系統下安裝wine模擬 Windows 環境來執行這些檔案。
 
 安裝成功後即可執行：
 
