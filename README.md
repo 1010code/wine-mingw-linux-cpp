@@ -34,7 +34,7 @@ hello world!
 
 ```sh
 # 執行單元測試
-wine build/bin/main.exe 
+wine build/test/unit_test.exe
 ```
 
 執行結果：
