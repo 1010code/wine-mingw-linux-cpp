@@ -12,7 +12,7 @@ cmake --build build
 
 編譯結果後會在該資料夾下產生`build`資料夾，兩份執行檔分別會在。
 - build/bin/main.exe
-- build/bin/main.exe 
+- build/test/unit_test.exe
 
 ## 如何在 Linux 下執行 MinGW 編譯的 C++ .exe 檔案
 可以參考以下[文章](https://andy6804tw.github.io/2024/08/31/wine-mingw-linux-cpp/)在Linux系統下安裝wine模擬 Windows 環境來執行這些檔案。
